@@ -1,1 +1,1 @@
-# Recat-Native_accelerometer
+# React-Native-accelerometer
